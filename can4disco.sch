@@ -36,10 +36,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "can4disco"
+Date "2017-03-03"
+Rev "1"
+Comp "base48"
 Comment1 ""
 Comment2 ""
 Comment3 ""
