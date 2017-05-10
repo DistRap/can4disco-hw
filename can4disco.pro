@@ -58,5 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=w_connectors
+LibName30=libs/w_connectors
 LibName31=libs/SN65HVD230DR
